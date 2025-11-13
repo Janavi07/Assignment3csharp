@@ -9,8 +9,8 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            Logger.LogMessage("This is a log message.");
-            Logger.LogMessage("Logging another message.");
+            Logger.LogMessage("This is a long message.");
+            Logger.LogMessage("another message.");
         }
     }
     public static class Logger
